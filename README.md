@@ -17,4 +17,4 @@ Swap:
 
 ## Performance:
 5.584s (averaged total time of 20 runs):
-#### Compiled with GCC 10.2.0 (`-O3` optimisation flag) on Arch Linux, Intel(R) Core(TM) i3-2350M CPU @ 2.30GHz
+#### Compiled with GCC 10.2.0 (`-O3` optimisation flag) on Arch Linux (64bit), Intel(R) Core(TM) i3-2350M CPU @ 2.30GHz
